@@ -21,4 +21,4 @@ net start termservice
 
 :: Display a message to the user
 echo Remote Desktop is now enabled.
-pause
+
